@@ -51,8 +51,6 @@ class DashboardView extends GetView<DashboardController> {
                 ),
                 tooltip: 'Re-run AI insights',
               ),
-
-
               TextButton(
                   onPressed: () {
                     getStorage.write("isLoggedIn", false);
