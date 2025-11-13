@@ -21,7 +21,7 @@ class AppStrings {
   static const loginNotificationBody =
       'You are now logged in. Check out the latest media insights.';
   static const missingApiKey =
-      'AI key missing. Provide a Hugging Face token in the .env file.';
+      'AI key missing. Provide a Hugging Face token in the file.';
   static const aiError = 'AI service unavailable';
   static const aiAnalyzing = 'Analyzing caption...';
 }
