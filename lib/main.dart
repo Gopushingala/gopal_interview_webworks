@@ -10,8 +10,6 @@ import 'routes/app_routes.dart';
 
 final getStorage = GetStorage();
 
-
-
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
