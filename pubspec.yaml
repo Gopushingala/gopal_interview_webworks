@@ -36,7 +36,7 @@ dependencies:
   get: ^4.6.6
   http: ^1.2.2
   intl: ^0.19.0
-  firebase_core: ^2.32.0
+  firebase_core:
   firebase_messaging:
   flutter_local_notifications: ^17.2.1
   timezone: ^0.9.3
