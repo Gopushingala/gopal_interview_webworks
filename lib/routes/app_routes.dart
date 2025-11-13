@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
-import 'package:gopal_interview_webworks/modules/dashboard/dashboard_view.dart';
+import 'package:gopal_interview_webworks/modules/dashboard/view/dashboard_view.dart';
 
-import '../modules/auth/login_binding.dart';
-import '../modules/auth/login_view.dart';
-import '../modules/dashboard/dashboard_binding.dart';
+import '../modules/auth/binding/login_binding.dart';
+import '../modules/auth/view/login_view.dart';
+import '../modules/dashboard/binding/dashboard_binding.dart';
 
 class AppRoutes {
   static const login = '/login';

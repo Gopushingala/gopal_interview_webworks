@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:gopal_interview_webworks/main.dart';
 
-import '../../core/constants/app_strings.dart';
-import '../../core/services/notification_service.dart';
-import '../../routes/app_routes.dart';
+import '../../../routes/app_routes.dart';
+import '../../../services/notification_service.dart';
+import '../../../utils/constants/app_strings.dart';
 
 class LoginController extends GetxController {
   final formKey = GlobalKey<FormState>();

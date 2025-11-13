@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 
-import '../../core/services/api_service.dart';
-import 'dashboard_controller.dart';
+import '../../../services/api_service.dart';
+import '../controller/dashboard_controller.dart';
 
 class DashboardBinding extends Bindings {
   @override

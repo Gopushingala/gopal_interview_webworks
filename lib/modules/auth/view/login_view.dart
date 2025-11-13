@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../core/constants/app_colors.dart';
-import '../../core/constants/app_strings.dart';
-import 'login_controller.dart';
+import '../../../utils/constants/app_colors.dart';
+import '../../../utils/constants/app_strings.dart';
+import '../controller/login_controller.dart';
 
 class LoginView extends GetView<LoginController> {
   const LoginView({super.key});

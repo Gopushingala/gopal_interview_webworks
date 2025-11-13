@@ -3,11 +3,11 @@ import 'package:get/get.dart';
 import 'package:gopal_interview_webworks/main.dart';
 import 'package:gopal_interview_webworks/routes/app_routes.dart';
 
-import '../../core/constants/app_colors.dart';
-import '../../core/constants/app_strings.dart';
-import '../../data/models/feed_item.dart';
-import 'dashboard_controller.dart';
-import 'widgets/feed_card.dart';
+import '../../../data/models/feed_item.dart';
+import '../../../utils/constants/app_colors.dart';
+import '../../../utils/constants/app_strings.dart';
+import '../controller/dashboard_controller.dart';
+import '../widgets/feed_card.dart';
 
 class DashboardView extends GetView<DashboardController> {
   const DashboardView({super.key});

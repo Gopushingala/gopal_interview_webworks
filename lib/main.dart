@@ -2,10 +2,10 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:gopal_interview_webworks/services/notification_service.dart';
+import 'package:gopal_interview_webworks/utils/constants/app_colors.dart';
+import 'package:gopal_interview_webworks/utils/constants/app_strings.dart';
 
-import 'core/constants/app_colors.dart';
-import 'core/constants/app_strings.dart';
-import 'core/services/notification_service.dart';
 import 'routes/app_routes.dart';
 
 final getStorage = GetStorage();

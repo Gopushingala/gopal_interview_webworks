@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
+import 'package:gopal_interview_webworks/data/models/feed_item.dart';
 import 'package:intl/intl.dart';
 
-import '../../core/constants/app_strings.dart';
-import '../../core/services/api_service.dart';
-import '../../data/models/feed_item.dart';
+import '../../../services/api_service.dart';
+import '../../../utils/constants/app_strings.dart';
 
 enum SortOption { name, date }
 

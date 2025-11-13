@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_vlc_player/flutter_vlc_player.dart';
 import 'package:get/get.dart';
 
-import '../../../core/constants/app_colors.dart';
-import '../../../core/constants/app_strings.dart';
+import '../../../utils/constants/app_colors.dart';
+import '../../../utils/constants/app_strings.dart';
+
 
 class VlcVideoPlayer extends StatefulWidget {
   final String videoUrl;

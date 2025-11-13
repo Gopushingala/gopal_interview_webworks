@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:gopal_interview_webworks/modules/dashboard/widgets/video_player.dart';
 
-import '../../../core/constants/app_colors.dart';
-import '../../../core/constants/app_strings.dart';
 import '../../../data/models/feed_item.dart';
+import '../../../utils/constants/app_colors.dart';
+import '../../../utils/constants/app_strings.dart';
 
 class FeedCard extends StatelessWidget {
   const FeedCard({
