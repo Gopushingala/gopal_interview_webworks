@@ -10,6 +10,7 @@ enum SortOption { name, date }
 class DashboardController extends GetxController {
   DashboardController(this._apiService);
 
+
   final ApiService _apiService;
 
   final RxList<FeedItem> imageFeed = <FeedItem>[].obs;
