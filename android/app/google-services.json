@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752901099619",
+    "project_id": "gopal-interview-webworks",
+    "storage_bucket": "gopal-interview-webworks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752901099619:android:09fa00af502dc054c6a856",
+        "android_client_info": {
+          "package_name": "com.example.gopal_interview_webworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpNqZZRjUJq2pcwrHfanSMsFrCd03cEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
